@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>d-api</artifactId>
+        <groupId>com.d.api</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>d-business</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.d.api</groupId>
+            <artifactId>d-swagger</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.d.api</groupId>
+            <artifactId>d-db</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.d.api</groupId>
+            <artifactId>d-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>${project.name}</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <!-- 指定man函数，也就是程序入口 -->
+                    <mainClass>com.d.ssccc.UserApplication</mainClass>
+                    <outputDirectory>F:\dd\d-api\dist</outputDirectory>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <!-- 设置打包目标 -->
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

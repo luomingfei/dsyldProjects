@@ -1,0 +1,19 @@
+package ${package}.modules.${moduleName}.service.impl;
+
+import com.d.api.common.model.SuperServiceImpl;
+import ${package}.${moduleName}.mapper.${className}Mapper;
+import ${package}.${moduleName}.entity.${className}Entity;
+import ${package}.${moduleName}.service.${className}Service;
+import org.springframework.stereotype.Service;
+
+/**
+ * ${comments}
+ *
+ * @author ${author} ${email}
+ * @since ${version} ${date}
+ */
+@Service
+public class ${className}ServiceImpl extends SuperServiceImpl<${className}Mapper, ${className}Entity> implements ${className}Service {
+
+
+}

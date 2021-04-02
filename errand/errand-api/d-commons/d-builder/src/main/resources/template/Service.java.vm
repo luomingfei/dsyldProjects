@@ -1,0 +1,14 @@
+package ${package}.modules.${moduleName}.service;
+
+import com.d.api.common.model.SuperService;
+import ${package}.${moduleName}.entity.${className}Entity;
+
+/**
+ * ${comments}
+ *
+ * @author ${author} ${email}
+ * @since ${version} ${date}
+ */
+public interface ${className}Service extends SuperService<${className}Entity> {
+
+}

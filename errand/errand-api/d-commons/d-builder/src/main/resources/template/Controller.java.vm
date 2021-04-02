@@ -1,0 +1,22 @@
+package ${package}.modules.${moduleName}.controller;
+
+import ${package}.${moduleName}.service.${className}Service;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+/**
+ * ${comments}
+ *
+ * @author ${author} ${email}
+ * @since ${version} ${date}
+ */
+@RestController
+@RequestMapping("${moduleName}/${pathName}")
+public class ${className}Controller extends SuperController{
+
+    @Autowired
+    private ${className}Service ${classname}Service;
+
+
+
+}
