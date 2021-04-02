@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.binarywang:weixin-java-common:4.0.6.B">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/repo/com/github/binarywang/weixin-java-common/4.0.6.B/weixin-java-common-4.0.6.B.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../maven/repo/com/github/binarywang/weixin-java-common/4.0.6.B/weixin-java-common-4.0.6.B-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../maven/repo/com/github/binarywang/weixin-java-common/4.0.6.B/weixin-java-common-4.0.6.B-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

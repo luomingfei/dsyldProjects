@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-api.iml" filepath="$PROJECT_DIR$/errand-api/d-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-commons/d-builder/d-builder.iml" filepath="$PROJECT_DIR$/errand-api/d-commons/d-builder/d-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-business/d-business.iml" filepath="$PROJECT_DIR$/errand-api/d-business/d-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-commons/d-common/d-common.iml" filepath="$PROJECT_DIR$/errand-api/d-commons/d-common/d-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-commons/d-commons.iml" filepath="$PROJECT_DIR$/errand-api/d-commons/d-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-commons/d-db/d-db.iml" filepath="$PROJECT_DIR$/errand-api/d-commons/d-db/d-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-commons/d-swagger/d-swagger.iml" filepath="$PROJECT_DIR$/errand-api/d-commons/d-swagger/d-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-api/d-tool/d-tool.iml" filepath="$PROJECT_DIR$/errand-api/d-tool/d-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/errand.iml" filepath="$PROJECT_DIR$/.idea/errand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-admin/ruoyi-admin.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-admin/ruoyi-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-common/ruoyi-common.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-common/ruoyi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-framework/ruoyi-framework.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-framework/ruoyi-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-generator/ruoyi-generator.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-generator/ruoyi-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-quartz/ruoyi-quartz.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-quartz/ruoyi-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errand-admin-api/ruoyi-system/ruoyi-system.iml" filepath="$PROJECT_DIR$/errand-admin-api/ruoyi-system/ruoyi-system.iml" />
+    </modules>
+  </component>
+</project>
